@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between
+}
+.button{
+    height: 20px;
+}
+.campaign{
+    font-size: 26px;
+    margin-left: 15px;
+    margin-top: 20px;
+    color: rgb(58, 12, 87);
+}
+.buttonG{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.icon{
+    margin-top: 5px;
+    color: gray;
+}

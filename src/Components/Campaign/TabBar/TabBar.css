@@ -1,0 +1,27 @@
+.tabBar{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.tabTitle{
+    margin-right: 25px;
+    color: slategray
+}
+.tabFirst{
+    margin-left: 15px;
+    color: rgb(58, 12, 87);
+    font-weight: 600;
+    /* text-decoration: underline; */
+}
+.hr{
+    height: 1px;
+    color: rgb(58, 12, 87);
+    background-color:rgb(58, 12, 87) ;
+}
+.check{
+    margin-right: 25px;  
+    color: rgb(58, 12, 87);
+    font-size: 12px;
+    height: 10px;
+    font-weight: 600;
+}

@@ -1,0 +1,29 @@
+.card{
+    margin-top: 15px;
+}
+.circle1{
+    top: 15px;
+   left: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  border-radius: 50%;
+  position: relative;
+ 
+}
+.circle2{
+    position: relative;
+    top: 45px;
+  left: 20px;
+  width: 90px;
+  height: 70px;
+  background-color: pink;
+  border-radius: 50%;
+ 
+ 
+}
+.circles{
+    margin-left: 70px;
+    display: flex;
+    justify-content:right;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "campaign_name":"Website Promotion -Landing",
+        "status":"Success",
+        "created_at":"17 June 2021",
+        "method":"CSV",
+        "Media":"Video"
+    },
+    {
+        "campaign_name":"App Download",
+        "status":"Failed",
+        "created_at":"15 June 2021",
+        "method":"URL Override",
+        "Media":"Video"
+    },
+    {
+        "campaign_name":"Social Media Promotion",
+        "status":"Success",
+        "created_at":"14 June 2021",
+        "method":"CSV",
+        "Media":"Video"
+    },
+    {
+        "campaign_name":"Linkedin Templates",
+        "status":"Failed",
+        "created_at":"13 June 2021",
+        "method":"URL Override",
+        "Media":"Video"
+    }
+]

@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: bottom;
+    margin-top: 80px;
+}
+.pageNo{
+    background-color:"lightgray";
+    border-radius:"6px";
+    padding:"15px"
+}
+.navigate{
+    display: flex;
+   margin-right: 15px;
+}
+.result{
+    margin-right: 25px;
+}

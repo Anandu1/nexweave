@@ -1,0 +1,49 @@
+.Topbar{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.howAreYou{
+    display: flex;
+   
+}
+.howAreYouText{
+    margin-left: 10px;
+    color: rgb(58, 12, 87);
+    font-size: 16px;
+}
+.topbarIcon{
+    color: rgb(58, 12, 87);
+}
+.webCampaigns{
+    background-color:lightgray;
+    color: rgb(58, 12, 87);
+    margin-left: 25px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.webctext{
+    font-size: 12px;
+    
+}
+.helpIcon{
+    margin-left: 25px;
+    color: rgb(58, 12, 87); 
+}
+.topAvatar{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 25px;
+}
+.avatar{
+   
+}
+.group{
+    display: flex;
+    margin-right: 25px;
+}
