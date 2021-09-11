@@ -35,6 +35,12 @@
     color: rgb(58, 12, 87);
 }
 .sidebarListItem::selection{
+    color: red;
+}
+.sidebarListItem:focus{
+    color: rgb(58, 12, 87);
+}
+.sidebarListItem:active{
     color: rgb(58, 12, 87);
 }
 .sudebarIcon{
@@ -48,3 +54,7 @@ li:hover{
 .card{
     margin-top: 30px;
 }
+
+ul.sidebarList li a:visited {
+    background:lime;
+    }
